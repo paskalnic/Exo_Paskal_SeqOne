@@ -15,7 +15,7 @@ This project is a script for analyzing genetic data.
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/{your-username}/{your-repository}.git
+   git clone https://github.com/paskalnic/Exo_Paskal_SeqOne.git
    ```
 
 2. Docker build the project
