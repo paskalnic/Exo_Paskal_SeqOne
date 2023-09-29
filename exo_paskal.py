@@ -126,4 +126,6 @@ def filter_reads(bam_file):
     output_bam_quality.close()
     output_bam_paired.close()
     
-    filter_reads("VariantViewer_DNA.bam")
+filter_reads("VariantViewer_DNA.bam")
+analyze_bam("VariantViewer_DNA.bam")
+    
